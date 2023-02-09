@@ -1,0 +1,79 @@
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+}
+ul {
+    padding: 0px!Important;
+}
+.menu-principal {
+    width: 100%;
+    background-color: white;
+    height: 60px;
+}
+main {
+    margin: 0 auto;
+    width: 980px;
+    position: relative;
+}
+.logo {
+    float: left;
+    padding: 16px;
+    width: 70%;
+}
+.img {
+    width: 120px;
+    height: 30px;
+}
+.img_facebook {
+    width: 30px;
+    height: 30px;
+}
+.img_instagram {
+    width: 30px;
+    height: 30px;
+}
+.redes-sociais ul li {
+    margin-left: 12px;
+    display: inline-block;
+    float: left;
+    list-style: none;
+}
+.redes-sociais {
+    width: 25%;
+    float: right;
+}
+.cabeçalho-2 {
+    background-color: white;
+    width: 980px;
+    margin: 0 auto;
+    padding: 5px;
+}
+.menu-urls {
+    height: 75px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-bottom: 3px solid rgb(161, 160, 160);
+}
+.menu ul li {
+    display: inline-block;
+    color: rgb(161, 160, 160);
+    margin-left: 15px;
+    height: 35px;
+}
+.menu ul li:hover {
+    border-bottom: 2px solid red;
+}
+.menu ul li a:hover {
+    color: red;
+}
+.menu ul li a {
+    color: rgb(161, 160, 160);
+    text-decoration: none;
+    font-size: 15px;
+    text-transform: uppercase;
+}
+.col-100 {
+    width: 100%;
+    float: left;
+    position: relative;
+}
